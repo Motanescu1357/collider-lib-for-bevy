@@ -5,7 +5,7 @@ edition = "2024"
 description = "A bevy collider crate."
 license = "MIT"
 readme = "README.txt"
-repository = ""
+repository = "https://github.com/Motanescu1357/collider-lib-for-bevy.git"
 
 [dependencies]
 bevy = "0.16.0"
