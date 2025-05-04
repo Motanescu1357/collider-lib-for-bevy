@@ -1,0 +1,1 @@
+This crate is a bevy collision lib.
