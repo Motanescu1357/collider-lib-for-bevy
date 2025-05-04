@@ -1,6 +1,6 @@
 [package]
 name = "colider_lib"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "A bevy collider crate."
 license = "MIT"
